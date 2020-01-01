@@ -29,6 +29,7 @@ talk("Привет. Меня зовут Сири")
 command()
 url = "https://itproger.com"
 webbrowser.open(url)
+print("єто все")
 # talk("як тебе звати?")
 # talk("Будемо множити два числа")
 #a=int(input("Введіть число 1:"))
