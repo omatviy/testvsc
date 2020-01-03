@@ -22,6 +22,7 @@ def send_welcome(message):
     for i in lst:
         sum+=i
 
+    print("Hi")
     talk(str(sum))
     bot.reply_to(message, str(sum))
     
